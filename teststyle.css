@@ -1,0 +1,33 @@
+.trybox{
+
+  height: 50%;
+  width: 100px;
+position: absolute;
+z-index: -1;+
+30
+background-color: #fff;
+}
+.red{
+  background-color: red;
+  color: black;
+  height: 100px;
+
+}
+.yellow{
+  background-color: yellow;
+  color: black;
+  height: 100px;
+  position: relative;
+
+}
+.green{
+  background-color: blue;
+  color: black;
+  height: 100px;
+}
+
+.img{
+  width: 40px;
+  height: 50px;
+  position: relative;
+}
